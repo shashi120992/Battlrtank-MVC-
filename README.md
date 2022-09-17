@@ -6,6 +6,21 @@ You can play this game at [this](https://shashi120992gmailcom.itch.io/battle-tan
 * Hone your skills in single-player training
 * you can customize your tank in different colors
 
+- **Difficulty**: Easy
+- **Topics**: 3D games, MVC Design pattern, Singleton Pattern
+- **Version**: Unity 2020.3.26f1 LTS
+
+# Screenshots
+
+<p align="center">
+<img src="/Images/1.png" width="40%" height="40%"> &nbsp&nbsp
+<img src="/Images/2.png" width="40%" height="40%"> &nbsp&nbsp
+ </p>
+ <p align="center">
+<img src="/Images/3.png" width="40%" height="40%"> &nbsp&nbsp
+<img src="/Images/4.png" width="40%" height="40%"> &nbsp&nbsp
+</p>
+
 ## Used notable mentions for the development
 ### MVC Design Pattern for tank services
   * Model script which contains all the data related to tank
